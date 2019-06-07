@@ -3,7 +3,9 @@ from weather import weather_by_city
 
 app = Flask(__name__)
 
+
 @app.route('/')
+
 
 def index():
     weather = weather_by_city('Moscow,Russia')
