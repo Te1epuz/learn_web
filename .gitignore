@@ -4,3 +4,6 @@ env/
 __pycache__/
 webapp/__pycache__/
 .vscode/
+
+
+# нужно добавить базы данных сюда
