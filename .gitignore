@@ -1,4 +1,6 @@
 *.log
 settings.py
-\env
-\__pycache__
+env/
+__pycache__/
+webapp/__pycache__/
+.vscode/
